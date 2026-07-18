@@ -1,0 +1,101 @@
+id,code,name,region
+1,US,United States,North America
+2,CA,Canada,North America
+3,MX,Mexico,North America
+4,CR,Costa Rica,North America
+5,PA,Panama,North America
+6,JM,Jamaica,North America
+7,DO,Dominican Republic,North America
+8,GT,Guatemala,North America
+9,HN,Honduras,North America
+10,SV,El Salvador,North America
+11,BR,Brazil,South America
+12,AR,Argentina,South America
+13,CO,Colombia,South America
+14,CL,Chile,South America
+15,PE,Peru,South America
+16,VE,Venezuela,South America
+17,EC,Ecuador,South America
+18,BO,Bolivia,South America
+19,UY,Uruguay,South America
+20,PY,Paraguay,South America
+21,GY,Guyana,South America
+22,SR,Suriname,South America
+23,GB,United Kingdom,Europe
+24,DE,Germany,Europe
+25,FR,France,Europe
+26,IT,Italy,Europe
+27,ES,Spain,Europe
+28,NL,Netherlands,Europe
+29,BE,Belgium,Europe
+30,CH,Switzerland,Europe
+31,SE,Sweden,Europe
+32,NO,Norway,Europe
+33,DK,Denmark,Europe
+34,FI,Finland,Europe
+35,IE,Ireland,Europe
+36,AT,Austria,Europe
+37,PT,Portugal,Europe
+38,GR,Greece,Europe
+39,PL,Poland,Europe
+40,CZ,Czech Republic,Europe
+41,HU,Hungary,Europe
+42,RO,Romania,Europe
+43,BG,Bulgaria,Europe
+44,SK,Slovakia,Europe
+45,HR,Croatia,Europe
+46,UA,Ukraine,Europe
+47,RU,Russia,Europe
+48,TR,Turkey,Europe
+49,EE,Estonia,Europe
+50,LV,Latvia,Europe
+51,LT,Lithuania,Europe
+52,SI,Slovenia,Europe
+53,CY,Cyprus,Europe
+54,LU,Luxembourg,Europe
+55,MT,Malta,Europe
+56,IS,Iceland,Europe
+57,AL,Albania,Europe
+58,JP,Japan,Asia
+59,CN,China,Asia
+60,IN,India,Asia
+61,KR,South Korea,Asia
+62,SG,Singapore,Asia
+63,MY,Malaysia,Asia
+64,TH,Thailand,Asia
+65,ID,Indonesia,Asia
+66,VN,Vietnam,Asia
+67,PH,Philippines,Asia
+68,PK,Pakistan,Asia
+69,BD,Bangladesh,Asia
+70,IL,Israel,Asia
+71,SA,Saudi Arabia,Asia
+72,AE,United Arab Emirates,Asia
+73,QA,Qatar,Asia
+74,KW,Kuwait,Asia
+75,OM,Oman,Asia
+76,JO,Jordan,Asia
+77,LB,Lebanon,Asia
+78,KZ,Kazakhstan,Asia
+79,LK,Sri Lanka,Asia
+80,NP,Nepal,Asia
+81,MM,Myanmar,Asia
+82,KH,Cambodia,Asia
+83,ZA,South Africa,Africa
+84,EG,Egypt,Africa
+85,NG,Nigeria,Africa
+86,KE,Kenya,Africa
+87,MA,Morocco,Africa
+88,DZ,Algeria,Africa
+89,TN,Tunisia,Africa
+90,GH,Ghana,Africa
+91,CI,Ivory Coast,Africa
+92,ET,Ethiopia,Africa
+93,UG,Uganda,Africa
+94,TZ,Tanzania,Africa
+95,SN,Senegal,Africa
+96,CM,Cameroon,Africa
+97,AO,Angola,Africa
+98,AU,Australia,Oceania
+99,NZ,New Zealand,Oceania
+100,FJ,Fiji,Oceania

@@ -1,0 +1,201 @@
+id,city_id,name,contact_name,email,phone,category_focus
+1,590,Scott Inc,Megan Wilson,contact@scottinc.com,+52-9664-1605,Home & Kitchen
+2,633,"Hicks, Williams and Roy",John Reyes,contact@hickswilliamsan.com,+52-5161-3696,Grocery & Gourmet Food
+3,81,White Inc,Suzanne Yang,contact@whiteinc.com,+52-4535-2181,Grocery & Gourmet Food
+4,523,Walker-Wright,Erica Mckenzie,contact@walker-wright.com,+1-5523-1243,Home & Kitchen
+5,617,"Watson, Shaw and Winters",Robert Jarvis,contact@watsonshawandwi.com,+1-1277-9979,Office Products
+6,331,Jones-Marshall,Ryan Murphy,contact@jones-marshall.com,+49-5271-7744,Office Products
+7,58,"Bryant, Wood and Carter",Nancy Sanchez,contact@bryantwoodandca.com,+34-8147-7005,Beauty & Personal Care
+8,79,Vargas-Snyder,Christie Mccullough,contact@vargas-snyder.com,+49-1998-6798,Electronics
+9,461,Hernandez Group,Joshua Fields,contact@hernandezgroup.com,+44-3597-8207,Apparel
+10,352,"Wiley, Tapia and Smith",Sarah Acosta,contact@wileytapiaandsm.com,+49-1820-3778,Grocery & Gourmet Food
+11,625,Harris and Sons,Tyrone Kaufman,contact@harrisandsons.com,+1-5546-6590,Books
+12,68,Dawson Inc,David Bruce,contact@dawsoninc.com,+34-1864-4925,Apparel
+13,597,Haynes-Watson,Angela Davis,contact@haynes-watson.com,+49-2546-2914,Grocery & Gourmet Food
+14,386,Walsh Group,Keith Graham,contact@walshgroup.com,+49-5281-6850,Books
+15,317,Young LLC,Tammy Long,contact@youngllc.com,+1-3573-3221,Beauty & Personal Care
+16,104,"Nguyen, Chavez and Hall",Brandy Carrillo,contact@nguyenchavezand.com,+44-8805-9296,Home & Kitchen
+17,167,Moore and Sons,Erik Martinez,contact@mooreandsons.com,+1-9270-6537,Office Products
+18,292,Oconnell-Clark,Derek Wilson,contact@oconnell-clark.com,+49-7383-4735,Office Products
+19,452,Aguirre LLC,Melissa Williams,contact@aguirrellc.com,+52-4688-6239,Home & Kitchen
+20,257,Hernandez-Dawson,Jennifer Williams,contact@hernandez-dawso.com,7581-8141,Home & Kitchen
+21,280,Green-Ewing,Jared Chavez,contact@green-ewing.com,+52-8261-3750,Toys & Games
+22,55,"Pierce, Davis and Garcia",Barbara Brown,contact@piercedavisandg.com,+52-8536-1530,Books
+23,102,Anderson Group,Mark Newman,contact@andersongroup.com,+49-5220-4727,Automotive
+24,631,"Willis, Lowery and Jones",Christina Brewer PhD,contact@willisloweryand.com,1043-2898,Toys & Games
+25,114,Stein LLC,Tom Williams,contact@steinllc.com,+34-3410-3697,Apparel
+26,114,"Hamilton, Ramsey and Crawford",Jeffery Gomez,contact@hamiltonramseya.com,+52-9808-9324,Toys & Games
+27,2,Hill Group,Amanda Harvey,contact@hillgroup.com,+44-5396-2185,Apparel
+28,539,Holland Group,Juan Brown,contact@hollandgroup.com,+44-8880-6706,Books
+29,260,Reyes-Barnes,Rebecca Wright,contact@reyes-barnes.com,+49-0515-3195,Home & Kitchen
+30,46,"Norton, Mayo and Casey",Joshua Washington,contact@nortonmayoandca.com,+34-8527-7221,Automotive
+31,38,"Shaw, Price and White",Daniel Huang,contact@shawpriceandwhi.com,+34-3030-5486,Grocery & Gourmet Food
+32,485,Brown-Frey,Pamela Key,contact@brown-frey.com,+34-0345-0541,Books
+33,448,Garcia Ltd,Joseph Moody,contact@garcialtd.com,+52-7652-7758,Beauty & Personal Care
+34,85,"Brown, Davies and Robinson",Rebecca Kelly,contact@browndaviesandr.com,+49-6169-2845,Apparel
+35,82,Thompson PLC,Oscar Howard,contact@thompsonplc.com,+34-4479-6275,Automotive
+36,44,"Johnson, Haynes and Meza",Kristine Lopez,contact@johnsonhaynesan.com,+49-5964-0165,Grocery & Gourmet Food
+37,768,Weaver-Thompson,Anthony Guzman,contact@weaver-thompson.com,+49-2029-7021,Sports & Outdoors
+38,798,Fox Inc,Lucas Drake,contact@foxinc.com,+49-5569-0927,Books
+39,381,Love-Sellers,Erica Johnson,contact@love-sellers.com,+52-1928-5654,Sports & Outdoors
+40,117,"Bush, Thomas and Rodriguez",Holly Jones,contact@bushthomasandro.com,2786-8144,Automotive
+41,220,"Mcmahon, Foster and Garcia",Chad Moore,contact@mcmahonfosteran.com,+44-4731-2172,Automotive
+42,90,Conner-Yu,Carrie Novak,contact@conner-yu.com,+49-5518-8442,Home & Kitchen
+43,371,"Preston, Austin and Kelly",Robin Gray,contact@prestonaustinan.com,+44-3132-3705,Grocery & Gourmet Food
+44,587,"Barker, Anderson and Daniel",Tiffany Myers,contact@barkerandersona.com,+34-7829-1146,Automotive
+45,539,"Johnson, Guzman and Mccall",Connie Cunningham,contact@johnsonguzmanan.com,+52-6912-5177,Grocery & Gourmet Food
+46,353,Taylor-Mcgee,William Jackson,contact@taylor-mcgee.com,+1-8922-6801,Grocery & Gourmet Food
+47,157,Underwood Ltd,Stacie Griffin,contact@underwoodltd.com,+34-2253-5841,Beauty & Personal Care
+48,202,Clark-Steele,Richard Le,contact@clark-steele.com,+49-8424-9818,Home & Kitchen
+49,607,Cruz Ltd,Christopher Gutierrez,contact@cruzltd.com,+44-2299-5900,Apparel
+50,47,Bell-Bennett,Rachel Lane,contact@bell-bennett.com,+49-9439-6907,Grocery & Gourmet Food
+51,297,"Perez, Hayes and Lloyd",Alejandro Green,contact@perezhayesandll.com,+49-4736-4710,Home & Kitchen
+52,451,Jones and Sons,Candace Jones,contact@jonesandsons.com,+52-7735-9255,Books
+53,409,Morgan PLC,Michele Reynolds,contact@morganplc.com,+1-5881-5371,Beauty & Personal Care
+54,461,"Martin, Preston and Moore",Daniel Lee,contact@martinprestonan.com,+1-2104-6963,Home & Kitchen
+55,336,"Spencer, Frost and Fernandez",Elizabeth Davis,contact@spencerfrostand.com,+44-5327-8774,Automotive
+56,24,Armstrong-Larsen,Isaac Patterson,contact@armstrong-larse.com,6873-3950,Electronics
+57,289,Colon-Weber,Mr. Daniel Little,contact@colon-weber.com,+52-9748-0162,Beauty & Personal Care
+58,745,Wells Inc,James Burns,contact@wellsinc.com,+34-6506-0983,Books
+59,567,"Baker, May and Hughes",James Lopez,contact@bakermayandhugh.com,+34-1687-8499,Apparel
+60,132,Baker Group,Russell Elliott,contact@bakergroup.com,6558-5239,Grocery & Gourmet Food
+61,412,Goodwin Ltd,Michael Morton,contact@goodwinltd.com,+44-0002-5787,Home & Kitchen
+62,621,Arellano-Lawrence,Sara Cardenas,contact@arellano-lawren.com,+44-2595-2694,Office Products
+63,345,Sheppard-Mcdaniel,Laura Young,contact@sheppard-mcdani.com,+44-8879-4705,Books
+64,690,Miller-Orr,Kathryn Lester,contact@miller-orr.com,6940-9749,Office Products
+65,234,"Byrd, Oliver and Martinez",Carrie Joyce,contact@byrdoliverandma.com,+49-0972-8962,Sports & Outdoors
+66,33,Stokes and Sons,Blake Vega,contact@stokesandsons.com,+44-1307-5626,Sports & Outdoors
+67,421,Osborn Ltd,Kurt Flores,contact@osbornltd.com,+44-9702-8385,Automotive
+68,539,"Sloan, Jones and Hughes",Gabriel Hill,contact@sloanjonesandhu.com,+52-5278-5854,Office Products
+69,496,Stark-Smith,Laurie Harrington,contact@stark-smith.com,+1-3484-3443,Automotive
+70,325,Perry and Sons,Lauren Hanna,contact@perryandsons.com,+52-5844-1986,Toys & Games
+71,354,Buckley PLC,Rachel Dillon,contact@buckleyplc.com,+1-4041-5747,Sports & Outdoors
+72,207,Humphrey-Baker,Laura Kennedy,contact@humphrey-baker.com,+44-4842-1993,Sports & Outdoors
+73,52,Hill and Sons,Melanie Morales,contact@hillandsons.com,+49-8330-1657,Apparel
+74,698,Preston-Rivera,Patrick Mccall,contact@preston-rivera.com,+1-0826-7734,Books
+75,293,Smith-Roth,Douglas Vasquez,contact@smith-roth.com,+49-0193-8026,Home & Kitchen
+76,38,"Cohen, Compton and Perez",Patrick Schroeder,contact@cohencomptonand.com,+52-7240-0499,Apparel
+77,344,Adams-Butler,Chelsea Lewis,contact@adams-butler.com,+34-7887-2874,Sports & Outdoors
+78,116,Figueroa-Malone,Samantha Robertson,contact@figueroa-malone.com,+34-2742-0549,Sports & Outdoors
+79,180,Jones Ltd,Brandy York,contact@jonesltd.com,+44-6685-1612,Home & Kitchen
+80,489,"Johnson, Lee and Whitaker",Danielle Bryant,contact@johnsonleeandwh.com,+34-3046-3745,Beauty & Personal Care
+81,597,Bush-Hill,Kathy Reid,contact@bush-hill.com,+49-9045-3017,Beauty & Personal Care
+82,164,Maldonado and Sons,Kirk Thompson,contact@maldonadoandson.com,+52-8414-5933,Home & Kitchen
+83,490,Matthews-Bailey,Steven Curry,contact@matthews-bailey.com,+1-7956-8783,Sports & Outdoors
+84,697,"Davis, Johnson and Williams",Penny Lewis,contact@davisjohnsonand.com,+44-1878-5191,Electronics
+85,561,Holland Ltd,Matthew Palmer,contact@hollandltd.com,+44-3982-2587,Apparel
+86,697,"Smith, Buck and Holland",Alejandra King,contact@smithbuckandhol.com,+1-9718-7072,Grocery & Gourmet Food
+87,426,Marquez-Fletcher,Steven York,contact@marquez-fletche.com,+52-9087-4064,Electronics
+88,764,King-Owens,Samantha Sanders,contact@king-owens.com,+1-9106-5180,Apparel
+89,484,Smith Ltd,Sara Hoffman,contact@smithltd.com,4622-6567,Toys & Games
+90,385,"Lynch, Evans and Rodriguez",William Davidson,contact@lynchevansandro.com,8251-2868,Home & Kitchen
+91,746,Green-Dawson,Elizabeth Hernandez,contact@green-dawson.com,+1-0047-8686,Sports & Outdoors
+92,254,Yoder PLC,Francisco Taylor,contact@yoderplc.com,+52-5243-1069,Electronics
+93,247,Rios LLC,Jason Price,contact@riosllc.com,+1-1190-7903,Electronics
+94,412,Aguilar PLC,Grace Reeves,contact@aguilarplc.com,+52-3830-2843,Office Products
+95,327,"Nichols, Glover and Knox",Katie Bruce,contact@nicholsgloveran.com,+44-9534-2836,Beauty & Personal Care
+96,282,"Walter, White and Davis",David Stokes,contact@walterwhiteandd.com,8926-8705,Toys & Games
+97,538,Arroyo LLC,Courtney Walker,contact@arroyollc.com,+34-6624-6287,Sports & Outdoors
+98,231,Fisher-Eaton,Kevin Ford,contact@fisher-eaton.com,+34-2708-6688,Home & Kitchen
+99,398,Ruiz Ltd,Terry Jones,contact@ruizltd.com,+1-4351-7518,Sports & Outdoors
+100,53,Mason Ltd,Edwin Brown,contact@masonltd.com,+34-6990-1398,Sports & Outdoors
+101,491,Taylor and Sons,William Orozco,contact@taylorandsons.com,+1-5403-3173,Office Products
+102,721,Thomas-Huffman,Bobby Cook,contact@thomas-huffman.com,+1-6385-4678,Books
+103,316,Edwards Inc,Donald Juarez,contact@edwardsinc.com,+34-5877-1753,Books
+104,321,Johnston and Sons,Phillip Miller DDS,contact@johnstonandsons.com,+52-0932-0489,Office Products
+105,738,"Jordan, Patterson and Woods",Joseph Cross,contact@jordanpatterson.com,+52-4235-3693,Automotive
+106,564,Mcclain PLC,Michael Sims,contact@mcclainplc.com,+49-5477-7252,Home & Kitchen
+107,738,Perez LLC,Brian Gordon,contact@perezllc.com,+44-7280-8010,Electronics
+108,423,Jackson-Colon,Earl Luna,contact@jackson-colon.com,+1-3120-3875,Electronics
+109,633,"Warren, Hamilton and Mcdaniel",Zachary Henry,contact@warrenhamiltona.com,+49-9770-0886,Electronics
+110,18,Martin Group,Danny Mercer,contact@martingroup.com,+44-4840-8621,Apparel
+111,537,Gross PLC,Barbara Dawson,contact@grossplc.com,+1-3398-4546,Apparel
+112,383,Brooks Ltd,Joseph Williams,contact@brooksltd.com,+52-7933-4101,Toys & Games
+113,389,Stanley Ltd,Amber Wilson,contact@stanleyltd.com,+52-8700-2176,Books
+114,580,James-Kelley,Christian Neal,contact@james-kelley.com,8033-9740,Apparel
+115,701,"Smith, Fisher and Garcia",Lisa Haynes,contact@smithfisherandg.com,+34-8902-5039,Home & Kitchen
+116,771,Rivas-Garcia,Autumn Wilson,contact@rivas-garcia.com,+49-6142-9396,Grocery & Gourmet Food
+117,340,Jimenez PLC,Dennis Mills,contact@jimenezplc.com,+52-2185-0163,Apparel
+118,349,Howard Group,Andrew Crawford,contact@howardgroup.com,+44-9965-0477,Sports & Outdoors
+119,365,Watts Group,Aaron Powers,contact@wattsgroup.com,+44-6629-6194,Sports & Outdoors
+120,731,Conley Ltd,Travis Chan Jr.,contact@conleyltd.com,1426-2655,Apparel
+121,94,"Garcia, Scott and Hall",Elizabeth Marshall MD,contact@garciascottandh.com,4754-1212,Toys & Games
+122,460,Sawyer LLC,Michael Simmons,contact@sawyerllc.com,+44-8861-0158,Apparel
+123,612,Davis Inc,Charles Holland,contact@davisinc.com,+44-5604-6618,Sports & Outdoors
+124,586,Howard-Kim,Sherry Davis,contact@howard-kim.com,+44-2622-4447,Home & Kitchen
+125,65,White-Morales,Denise Cruz,contact@white-morales.com,+1-6464-7154,Sports & Outdoors
+126,739,Marsh-Banks,Ashley Horton,contact@marsh-banks.com,+49-7993-7124,Electronics
+127,406,Jarvis and Sons,Thomas Webb,contact@jarvisandsons.com,+34-9657-5692,Beauty & Personal Care
+128,329,"Gregory, White and James",Allen Cohen,contact@gregorywhiteand.com,+44-3752-6547,Office Products
+129,249,"Mcpherson, Anderson and Knapp",Jason Williams,contact@mcphersonanders.com,+34-6465-1939,Grocery & Gourmet Food
+130,185,Pena-Smith,Kelly Manning,contact@pena-smith.com,+49-8073-7416,Automotive
+131,143,"Cunningham, Levine and Santiago",Joseph Haynes,contact@cunninghamlevin.com,+49-4342-6617,Office Products
+132,491,Reynolds Ltd,Gregory Rhodes,contact@reynoldsltd.com,+44-6886-8058,Office Products
+133,654,Hernandez-Serrano,Lisa Smith,contact@hernandez-serra.com,1352-9096,Books
+134,441,Wagner Group,Sheila Jones,contact@wagnergroup.com,0143-8889,Office Products
+135,227,Flores-Rivera,Jonathon Pierce,contact@flores-rivera.com,+52-5679-8250,Automotive
+136,108,Powell-Young,Robert West,contact@powell-young.com,+34-6112-5457,Sports & Outdoors
+137,534,West-Wilson,Matthew Garcia MD,contact@west-wilson.com,+52-5717-7514,Electronics
+138,728,"Dunn, Petersen and Conner",Marcia Wu,contact@dunnpetersenand.com,0512-3828,Home & Kitchen
+139,339,"Clark, Powers and Clements",Anthony Walker,contact@clarkpowersandc.com,+44-6736-2266,Electronics
+140,756,Rivera-Saunders,Michelle Cox,contact@rivera-saunders.com,+44-3796-6033,Beauty & Personal Care
+141,771,Wilson-Malone,Glenn Gallegos,contact@wilson-malone.com,+49-1918-2553,Automotive
+142,117,Kelley-Brooks,Steven Vasquez,contact@kelley-brooks.com,+34-7859-6969,Apparel
+143,357,"Newton, Ortiz and King",Bryan Phelps,contact@newtonortizandk.com,+34-7924-9912,Books
+144,121,Bryant and Sons,Ashley Perry,contact@bryantandsons.com,+1-4125-2866,Office Products
+145,142,"Monroe, Chapman and Barton",Matthew Blanchard,contact@monroechapmanan.com,+44-6627-8282,Automotive
+146,296,Maynard Inc,Amber Mcconnell,contact@maynardinc.com,+1-2579-0507,Home & Kitchen
+147,200,"Webb, Romero and Morse",Kenneth Cross,contact@webbromeroandmo.com,+52-8876-7677,Home & Kitchen
+148,85,"Obrien, Morris and Keith",Lee Schwartz,contact@obrienmorrisand.com,+44-0340-4384,Home & Kitchen
+149,800,Hill LLC,Jodi Anderson,contact@hillllc.com,+52-9788-1914,Grocery & Gourmet Food
+150,376,Morrison-Tanner,Sarah Kelley,contact@morrison-tanner.com,+44-0783-6134,Electronics
+151,461,Joseph-Walls,Christina Weber,contact@joseph-walls.com,+34-5171-3395,Office Products
+152,648,Parks-Morse,Michael Hester,contact@parks-morse.com,+52-2923-3095,Grocery & Gourmet Food
+153,288,Gordon Ltd,Michelle Hodges,contact@gordonltd.com,+44-8254-4948,Apparel
+154,139,"Castillo, Duncan and Contreras",Paul Skinner,contact@castilloduncana.com,+52-0422-3253,Toys & Games
+155,502,Rich-Henderson,Brian James,contact@rich-henderson.com,+1-9466-7116,Grocery & Gourmet Food
+156,768,Santiago and Sons,Richard Terrell,contact@santiagoandsons.com,+34-5775-9017,Books
+157,65,"King, Franco and Vaughn",Paul Johnson,contact@kingfrancoandva.com,+44-6363-7454,Books
+158,561,Garcia-Parrish,Sharon Newton,contact@garcia-parrish.com,+44-2975-0017,Electronics
+159,128,"Price, Dixon and Robles",Melissa Williams,contact@pricedixonandro.com,+1-7706-3242,Beauty & Personal Care
+160,96,Hughes-Frye,Emily Arnold,contact@hughes-frye.com,+49-5415-2064,Sports & Outdoors
+161,440,Manning and Sons,Priscilla Berg,contact@manningandsons.com,+49-1103-7129,Sports & Outdoors
+162,532,Pruitt Ltd,Holly Chapman,contact@pruittltd.com,+49-7005-1627,Apparel
+163,235,"Morrison, Parsons and Brandt",Christopher Fleming,contact@morrisonparsons.com,+52-1115-5426,Home & Kitchen
+164,657,Rivers Ltd,Jamie Patterson,contact@riversltd.com,+49-2189-0927,Books
+165,740,"Baker, Martin and Singleton",John Pineda,contact@bakermartinands.com,+1-2697-3112,Apparel
+166,604,Hernandez LLC,Patricia Garrett,contact@hernandezllc.com,+49-6565-2341,Sports & Outdoors
+167,567,"Turner, Tyler and Pierce",Michael Fox,contact@turnertylerandp.com,+44-9940-4389,Grocery & Gourmet Food
+168,194,Meyer PLC,Joshua Powell,contact@meyerplc.com,+49-6403-7613,Automotive
+169,654,Walker-Lewis,Isaac Robinson,contact@walker-lewis.com,+44-1805-5269,Toys & Games
+170,375,"Moreno, Barajas and Colon",Mrs. Maureen Griffin,contact@morenobarajasan.com,+44-2710-9104,Sports & Outdoors
+171,41,"Austin, Oliver and Haley",Erica Moon,contact@austinoliverand.com,6848-6661,Grocery & Gourmet Food
+172,551,Cruz PLC,Allison Black,contact@cruzplc.com,+44-2414-1832,Grocery & Gourmet Food
+173,335,Robertson-Hicks,Mr. Matthew Flores,contact@robertson-hicks.com,+52-9146-3031,Toys & Games
+174,119,Vaughan and Sons,Patricia Ferguson,contact@vaughanandsons.com,+52-9904-2102,Electronics
+175,168,"Jones, Santiago and Ayala",Jessica Garcia,contact@jonessantiagoan.com,+52-5884-2524,Apparel
+176,790,"Poole, Johns and Figueroa",Robert Jones,contact@poolejohnsandfi.com,5648-1491,Automotive
+177,467,"Hernandez, Stevens and Rivera",Anthony Bauer,contact@hernandezsteven.com,+44-5079-2524,Apparel
+178,588,"Jones, Underwood and Bartlett",Jerry Sullivan,contact@jonesunderwooda.com,+49-1380-0030,Automotive
+179,373,Smith-Nunez,Margaret Montgomery,contact@smith-nunez.com,+52-2208-6353,Toys & Games
+180,738,"Richards, Haynes and Jones",Ashley Buchanan,contact@richardshaynesa.com,+34-4195-1802,Sports & Outdoors
+181,529,Obrien-Campbell,Jane Short,contact@obrien-campbell.com,6174-4518,Automotive
+182,9,Wells PLC,Paul Robles,contact@wellsplc.com,+34-3494-9375,Office Products
+183,506,"Phillips, Walters and Evans",Traci Camacho,contact@phillipswalters.com,+1-8320-6038,Books
+184,652,"Brooks, Herring and Spencer",Barbara Smith,contact@brooksherringan.com,+49-0506-4138,Sports & Outdoors
+185,430,"Long, Kelley and Miller",Patrick Swanson,contact@longkelleyandmi.com,+52-0241-0386,Books
+186,470,Gutierrez Ltd,Brenda White,contact@gutierrezltd.com,+49-1918-2619,Office Products
+187,64,"Davenport, Lee and White",Sarah York,contact@davenportleeand.com,+52-2344-5655,Automotive
+188,279,"Murray, Dunn and Roberts",Brett Swanson,contact@murraydunnandro.com,+1-1329-1212,Automotive
+189,478,Lynn-Howard,Cynthia Mitchell,contact@lynn-howard.com,+34-6185-3747,Beauty & Personal Care
+190,123,Mccullough LLC,Mr. Matthew Steele,contact@mcculloughllc.com,2490-3521,Sports & Outdoors
+191,365,Cunningham LLC,Tina Jackson,contact@cunninghamllc.com,+52-8044-2067,Grocery & Gourmet Food
+192,767,Sanchez-Walker,Jessica Larsen,contact@sanchez-walker.com,+44-3171-2100,Sports & Outdoors
+193,134,Frazier LLC,Julie Howard,contact@frazierllc.com,+1-6519-9410,Apparel
+194,203,Tucker-Rodriguez,Angela Ramirez,contact@tucker-rodrigue.com,+49-7215-1070,Home & Kitchen
+195,588,Vance and Sons,Stephen Jones,contact@vanceandsons.com,+52-6706-6253,Home & Kitchen
+196,282,"Johnson, Perkins and Sullivan",Susan Arnold,contact@johnsonperkinsa.com,+34-7209-9934,Automotive
+197,422,"Shannon, Fernandez and Valdez",James Vance,contact@shannonfernande.com,+44-7014-6263,Grocery & Gourmet Food
+198,256,"Quinn, Carter and Marshall",Jennifer Shaw,contact@quinncarterandm.com,+49-8065-7875,Office Products
+199,515,"Allen, Maynard and Holden",Nicole Taylor,contact@allenmaynardand.com,+34-6420-5930,Beauty & Personal Care
+200,60,White PLC,Tracy Fitzgerald,contact@whiteplc.com,+52-8593-2133,Beauty & Personal Care

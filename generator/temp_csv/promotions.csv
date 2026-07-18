@@ -1,0 +1,11 @@
+id,name,discount_percentage,start_date,end_date
+1,Summer Clearance 2023,15.0,2023-06-01,2023-08-31
+2,Black Friday 2023,25.0,2023-11-20,2023-11-27
+3,Christmas Super Sale 2023,20.0,2023-12-15,2023-12-31
+4,New Year Kickoff 2024,10.0,2024-01-01,2024-01-15
+5,Spring Renewal 2024,12.0,2024-03-20,2024-04-10
+6,Summer Clearance 2024,15.0,2024-06-01,2024-08-31
+7,Black Friday 2024,30.0,2024-11-25,2024-12-02
+8,Christmas Super Sale 2024,20.0,2024-12-15,2024-12-31
+9,Spring Renewal 2025,15.0,2025-03-20,2025-04-10
+10,Summer Special 2025,18.0,2025-06-01,2025-08-31

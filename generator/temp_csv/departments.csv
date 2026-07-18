@@ -1,0 +1,9 @@
+id,name,budget,manager_id
+1,Executive Board,5000000.0,1
+2,Finance,1200000.0,2
+3,Human Resources,800000.0,3
+4,Information Technology,3000000.0,4
+5,Sales & Marketing,4000000.0,5
+6,Logistics & Warehouse,2500000.0,6
+7,Customer Support,1000000.0,7
+8,Product Management,1800000.0,8
