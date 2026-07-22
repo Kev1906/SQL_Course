@@ -28,6 +28,8 @@ Cada lección debe tener:
 7. **Errores frecuentes**
 8. **Resumen**
 
+La clase teórica completa (secciones 1-5 y 7-8) debe guardarse en un archivo markdown en `lessons/dayXXX.md` (ej: `lessons/day005.md`). Los ejercicios van en `exercises/dayXXX.sql`.
+
 ## Reglas importantes
 
 - NUNCA simplifiques ejemplos. Usa datos reales del proyecto.
