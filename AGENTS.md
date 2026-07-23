@@ -75,3 +75,7 @@ cat database/schema/05_triggers.sql | docker exec -i sql-course psql -U student 
 - **Datos:** Cargados y verificados (~500K registros, calidad de producción).
 - **Día 1:** Completado y evaluado (JOINs básicos, GROUP BY, HAVING).
 - **Día 2:** CASE y COALESCE -- lección entregada, ejercicios pendientes de resolución por el alumno.
+- **Día 3:** EXISTS y NOT EXISTS -- lección entregada, ejercicios pendientes de resolución por el alumno.
+- **Día 4:** UNION, INTERSECT, EXCEPT -- lección entregada, ejercicios pendientes de resolución por el alumno.
+- **Día 5:** CTE (Common Table Expressions) -- lección entregada, ejercicios pendientes de resolución por el alumno.
+- **Día 6:** Window Functions -- lección entregada, ejercicios pendientes de resolución por el alumno.
