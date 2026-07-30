@@ -80,4 +80,5 @@ cat database/schema/05_triggers.sql | docker exec -i sql-course psql -U student 
 - **Día 5:** CTE (Common Table Expressions) -- lección entregada, ejercicios pendientes de resolución por el alumno.
 - **Día 6:** Window Functions -- lección entregada, ejercicios pendientes de resolución por el alumno.
 - **Día 7:** Subqueries -- lección entregada, ejercicios resueltos por el alumno.
-- **Día 8:** Date Functions -- lección entregada, ejercicios pendientes de resolución por el alumno.
+- **Día 8:** Date Functions -- lección entregada, ejercicios resueltos por el alumno (con soluciones profesionales en el archivo).
+- **Día 9:** UPDATE y DELETE -- lección entregada, ejercicios pendientes de resolución por el alumno.
